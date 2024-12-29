@@ -1,0 +1,24 @@
+Cloud computing is a large scale associate system .
+
+ At present it is becoming very popular in educational and business fields be use it is offering different types of services 
+
+Because of the availability of Cloud computing services , large organisations can avoid spending the memory on purchasing of the software and hardware required for a growing organisation . 
+
+Cloud is the collection of virtual Resources which can be easily accessible and it's resource can be (pay pen use concept) we need to pay for what we used . 
+
+Cloud computing provides the service over the Internet and it provides service like hardware as a service , which provides service using () 
+
+Data centers is where all the applications which is used by the applicants  are collected . 
+
+Presently , day by day there is growth of cloud computing is increasing popularly because it provides services over the Internet and the day centres that resides anywhere in the world . 
+
+As there are some issues that occur in the cloud computing is the security issues 
+
+
+
+
+
+
+
+
+Public cloud is used for general purpose, it can be accessed by any user.In public cloud services are provided to the public on rent.Depending on the services charges are applied.
